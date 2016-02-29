@@ -50,6 +50,12 @@
     <Compile Include="BRV-3050.Designer.cs">
       <DependentUpon>BRV-3050.cs</DependentUpon>
     </Compile>
+    <Compile Include="BRV-3051.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BRV-3051.Designer.cs">
+      <DependentUpon>BRV-3051.cs</DependentUpon>
+    </Compile>
     <Compile Include="Form1.cs">
       <SubType>Form</SubType>
     </Compile>
