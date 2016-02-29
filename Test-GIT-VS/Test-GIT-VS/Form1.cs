@@ -15,5 +15,10 @@ namespace Test_GIT_VS
         {
             InitializeComponent();
         }
+
+        private void Form1_Load(object sender, EventArgs e)
+        {
+
+        }
     }
 }
