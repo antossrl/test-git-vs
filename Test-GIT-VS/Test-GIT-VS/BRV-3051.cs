@@ -9,16 +9,11 @@ using System.Windows.Forms;
 
 namespace Test_GIT_VS
 {
-    public partial class Form1 : Form
+    public partial class BRV_3051 : Form
     {
-        public Form1()
+        public BRV_3051()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
         }
     }
 }
